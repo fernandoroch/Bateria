@@ -68,7 +68,7 @@
 
   <p>Click no botão abaixo e visualize o projeto </p>
 <br>
-  <button  style="padding:8px 20px; border-radius:5px; border:none; background:black;"><a style="color:aqua;" target="_blank" href="https://fernandoroch.github.io/Quiz-Tec/">Ir para projeto</a>
+  <button  style="padding:8px 20px; border-radius:5px; border:none; background:black;"><a style="color:aqua;" target="_blank" href="https://fernandoroch.github.io/Bateria/">Ir para projeto</a>
   </button>
   </div>
 
