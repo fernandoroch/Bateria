@@ -26,7 +26,7 @@
 
 ## Tabela de conteudo
 
-- [Gifs](#gifs)
+
 - [Tecnologia utilizada](#tecnologias)
 - [Como utilizar](#utilização)
 - [Veja o projeto funcionando.](#funcionando)
